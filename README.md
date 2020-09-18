@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=250&section=header&text=Hi,I'm%20Jiyun&fontSize=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=250&section=header&text=Hi👋%20I'm%20Jiyun&fontSize=70&fontAlignY=35)
 
 
 
@@ -29,4 +29,6 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=footer&text=Thank%20you!&fontSize=80&fontAlignY=70)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Thank%20you!&fontSize=80&fontAlignY=78)
+
+press __`F5`__
