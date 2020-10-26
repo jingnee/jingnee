@@ -12,7 +12,7 @@
   </a>
 </p>
 
-### Interest
+### :baby_chick: Interest
 
 - React 
 - devops
@@ -27,8 +27,12 @@
 
 
 
+​																										[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjingnee%2Fhit-counter&count_bg=%23B2AEAB&title_bg=%23F75858&icon=codeigniter.svg&icon_color=%23F7C765&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Thank%20you!&fontSize=80&fontAlignY=78)
+
+
 
 press __`F5`__
