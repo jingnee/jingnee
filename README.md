@@ -34,8 +34,8 @@
   <a href="https://www.acmicpc.net/user/jinny">
     <img src="https://img.shields.io/badge/Baekjoon-0088FF?style=flat-square&&logoColor=white&link=https://www.acmicpc.net/user/jinny"/>
   </a>
-  <a href="https://velog.io/@jinny">
-    <img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jinny"/>
+  <a href="https://jineey.tistory.com">
+    <img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jineey.tistory.com"/>
   </a>  
 </p>
 
