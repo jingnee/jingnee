@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Baekjoon-0088FF?style=flat-square&&logoColor=white&link=https://www.acmicpc.net/user/jinny"/>
   </a>
   <a href="https://jineey.tistory.com">
-    <img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jineey.tistory.com"/>
+    <img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://jineey.tistory.com"/>
   </a>  
 </p>
 
